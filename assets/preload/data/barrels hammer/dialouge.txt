@@ -1,0 +1,29 @@
+1:enter:grime:Sup.
+2:crying:gf:DUDE!! these were rentals!! Noooo....
+3:forward determined:sash:Grimesyyy! Toad Army! Y'all made it!
+4::grime:Sashaaa!... who are the two mini monsters?
+5:what:bf: Are those talking frogs!!??
+6:enter:sash: Toads.
+7:duck:gf: When you said you had a crew coming I thought it'd be like... 
+8:enter:gf:maybe 2 other girls or something.
+9:snicker:sash: Psshhhhh, that's a different crew, girl. 
+10:shock:sash:But they're a little... wrapped up in something right nowww 
+11:determined:sash:so I'm rockin' with these guys!
+12:duck:gf: A little ominous on that "wrapped up in something" line 
+13:enter:gf:but i get it. 
+14:neutral:gf:Alright, Boyfriend, we gotta go now.
+15:miss:bf: whaaaat???
+16::gf: We promised, babe.
+17:annoy1:sash: Now now wait just one moment. 
+18:determined:sash:This battle isn't over.
+20:enter:bf: Oh!?
+21:enter:sash: You could handle me at my best... 
+22:forward determined:sash:but what if we take it up a notch?
+23:sus:bf: ...?
+24::event2:
+25:what:bf: whuhuh?
+26:pointup:gf: OKAY—- when did THAT start happening, girl?
+27:enter:sash: long story, tldr, 
+28:rock up:sash:I am awesome~! 
+29:enter:sash:Now...
+30:determined:sash:Let's. Rock.

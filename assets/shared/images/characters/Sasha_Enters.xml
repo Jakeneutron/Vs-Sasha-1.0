@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sasha_Enters.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sasha_Walksin instance 10000" x="0" y="0" width="266" height="1038" frameX="-328" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10001" x="316" y="0" width="545" height="1038" frameX="-193" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10002" x="911" y="0" width="829" height="1038" frameX="-55" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10003" x="1790" y="0" width="940" height="1038" frameX="-1" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10004" x="2780" y="0" width="941" height="1038" frameX="0" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10005" x="3771" y="0" width="896" height="1038" frameX="-22" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10006" x="4717" y="0" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10007" x="5634" y="0" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10008" x="6551" y="0" width="869" height="939" frameX="-60" frameY="-44" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10009" x="0" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10010" x="917" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10011" x="1834" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10012" x="2751" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10013" x="3668" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10014" x="4585" y="1088" width="867" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10015" x="5502" y="1088" width="1060" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10016" x="6612" y="1088" width="1060" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10017" x="0" y="2176" width="1150" height="939" frameX="-60" frameY="-44" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10018" x="1200" y="2176" width="1174" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10019" x="2424" y="2176" width="1181" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10020" x="3655" y="2176" width="1181" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10021" x="4886" y="2176" width="1182" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10022" x="6118" y="2176" width="1182" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10023" x="0" y="3264" width="1182" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10024" x="1232" y="3264" width="1182" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10025" x="2464" y="3264" width="1179" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10026" x="3693" y="3264" width="1155" height="939" frameX="-60" frameY="-44" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10027" x="4898" y="3264" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10028" x="6128" y="3264" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10029" x="0" y="4352" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10030" x="1230" y="4352" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10031" x="2460" y="4352" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10032" x="3690" y="4352" width="1180" height="1038" frameX="-36" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10033" x="4920" y="4352" width="1194" height="1038" frameX="-22" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10034" x="6164" y="4352" width="1216" height="1038" frameX="0" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10035" x="0" y="5440" width="1190" height="939" frameX="-26" frameY="-44" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10036" x="1240" y="5440" width="1161" height="1038" frameX="-55" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10037" x="2451" y="5440" width="1021" height="1038" frameX="-195" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10038" x="3522" y="5440" width="882" height="1038" frameX="-330" frameY="0" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10039" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10040" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10041" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10042" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10043" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10044" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+	<SubTexture name="Sasha_Walksin instance 10045" x="4454" y="5440" width="686" height="733" frameX="-530" frameY="-181" frameWidth="1219" frameHeight="1038"/>
+</TextureAtlas>

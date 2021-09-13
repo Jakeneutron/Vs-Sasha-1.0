@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sasha_Alts.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sasha_Down_Alt instance 10000" x="0" y="0" width="790" height="771" frameX="-466" frameY="-28" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10001" x="0" y="0" width="790" height="771" frameX="-466" frameY="-28" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10002" x="840" y="0" width="1077" height="828" frameX="-273" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10003" x="840" y="0" width="1077" height="828" frameX="-273" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10004" x="1967" y="0" width="1285" height="833" frameX="-170" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10005" x="1967" y="0" width="1285" height="833" frameX="-170" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10006" x="3302" y="0" width="1567" height="841" frameX="-22" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10007" x="3302" y="0" width="1567" height="841" frameX="-22" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10008" x="4919" y="0" width="1615" height="806" frameX="0" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10009" x="4919" y="0" width="1615" height="806" frameX="0" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10010" x="0" y="891" width="1631" height="797" frameX="-10" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10011" x="0" y="891" width="1631" height="797" frameX="-10" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Down_Alt instance 10012" x="0" y="891" width="1631" height="797" frameX="-10" frameY="0" frameWidth="1641" frameHeight="841"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10000" x="1681" y="891" width="721" height="707" frameX="-6" frameY="-22" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10001" x="1681" y="891" width="721" height="707" frameX="-6" frameY="-22" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10002" x="2452" y="891" width="731" height="713" frameX="-2" frameY="-16" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10003" x="2452" y="891" width="731" height="713" frameX="-2" frameY="-16" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10004" x="3233" y="891" width="735" height="718" frameX="0" frameY="-11" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10005" x="4018" y="891" width="735" height="718" frameX="0" frameY="-11" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10006" x="4803" y="891" width="734" height="724" frameX="0" frameY="-5" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10007" x="5587" y="891" width="734" height="724" frameX="0" frameY="-5" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10008" x="6371" y="891" width="728" height="729" frameX="-3" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10009" x="6371" y="891" width="728" height="729" frameX="-3" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10010" x="7149" y="891" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10011" x="7149" y="891" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10012" x="0" y="1738" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10013" x="0" y="1738" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10014" x="7149" y="891" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Idle_Alt instance 10015" x="7149" y="891" width="728" height="729" frameX="-4" frameY="0" frameWidth="735" frameHeight="729"/>
+	<SubTexture name="Sasha_Left_Alt instance 10000" x="778" y="1738" width="736" height="617" frameX="-219" frameY="-11" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10001" x="778" y="1738" width="736" height="617" frameX="-219" frameY="-11" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10002" x="1564" y="1738" width="836" height="624" frameX="-130" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10003" x="1564" y="1738" width="836" height="624" frameX="-130" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10004" x="2450" y="1738" width="966" height="624" frameX="0" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10005" x="2450" y="1738" width="966" height="624" frameX="0" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10006" x="3466" y="1738" width="937" height="624" frameX="-29" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10007" x="3466" y="1738" width="937" height="624" frameX="-29" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10008" x="4453" y="1738" width="955" height="624" frameX="-11" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Left_Alt instance 10009" x="4453" y="1738" width="955" height="624" frameX="-11" frameY="0" frameWidth="966" frameHeight="628"/>
+	<SubTexture name="Sasha_Right_Alt instance 10000" x="5458" y="1738" width="739" height="678" frameX="0" frameY="0" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10001" x="5458" y="1738" width="739" height="678" frameX="0" frameY="0" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10002" x="6247" y="1738" width="851" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10003" x="6247" y="1738" width="851" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10004" x="7148" y="1738" width="850" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10005" x="7148" y="1738" width="850" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10006" x="0" y="2517" width="841" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10007" x="0" y="2517" width="841" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10008" x="891" y="2517" width="826" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Right_Alt instance 10009" x="891" y="2517" width="826" height="672" frameX="-2" frameY="-4" frameWidth="853" frameHeight="678"/>
+	<SubTexture name="Sasha_Up_Alt instance 10000" x="1767" y="2517" width="763" height="902" frameX="-3" frameY="0" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10001" x="1767" y="2517" width="763" height="902" frameX="-3" frameY="0" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10002" x="2580" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10003" x="2580" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10004" x="3392" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10005" x="3392" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10006" x="4204" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10007" x="4204" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+	<SubTexture name="Sasha_Up_Alt instance 10008" x="5016" y="2517" width="762" height="871" frameX="0" frameY="-31" frameWidth="766" frameHeight="902"/>
+</TextureAtlas>

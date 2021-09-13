@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toads.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Toad spread instance 10000" x="0" y="0" width="3027" height="543" frameX="0" frameY="0" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10001" x="0" y="0" width="3027" height="543" frameX="0" frameY="0" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10002" x="0" y="593" width="3011" height="457" frameX="-10" frameY="-105" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10003" x="0" y="593" width="3011" height="457" frameX="-10" frameY="-105" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10004" x="0" y="1100" width="2994" height="457" frameX="-27" frameY="-101" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10005" x="0" y="1100" width="2994" height="457" frameX="-27" frameY="-101" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10006" x="0" y="1607" width="2996" height="484" frameX="-25" frameY="-59" frameWidth="3027" frameHeight="562"/>
+	<SubTexture name="Toad spread instance 10007" x="0" y="1607" width="2996" height="484" frameX="-25" frameY="-59" frameWidth="3027" frameHeight="562"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sashaPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sasha_Portraits0000" x="0" y="0" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0001" x="1331" y="0" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0002" x="2662" y="0" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0003" x="0" y="771" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0004" x="1331" y="771" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0005" x="2662" y="771" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0006" x="0" y="1542" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0007" x="1331" y="1542" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0008" x="2662" y="1542" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0009" x="0" y="2313" width="1281" height="721"/>
+	<SubTexture name="Sasha_Portraits0010" x="1331" y="2313" width="1281" height="721"/>
+</TextureAtlas>

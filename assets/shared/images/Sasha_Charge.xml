@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sasha_Charge.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sasha_Idle instance 10000" x="0" y="0" width="689" height="617" frameX="-30" frameY="-149" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10001" x="739" y="0" width="693" height="621" frameX="-30" frameY="-149" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10002" x="1482" y="0" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10003" x="2218" y="0" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10004" x="2954" y="0" width="727" height="704" frameX="-30" frameY="-66" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10005" x="3731" y="0" width="752" height="749" frameX="-30" frameY="-34" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10006" x="4533" y="0" width="773" height="787" frameX="-19" frameY="-19" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10007" x="5356" y="0" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10008" x="6092" y="0" width="732" height="709" frameX="-30" frameY="-61" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10009" x="6874" y="0" width="760" height="757" frameX="-26" frameY="-30" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10010" x="0" y="837" width="781" height="795" frameX="-15" frameY="-15" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10011" x="831" y="837" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10012" x="1567" y="837" width="736" height="713" frameX="-30" frameY="-57" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10013" x="2353" y="837" width="768" height="765" frameX="-22" frameY="-26" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10014" x="3171" y="837" width="791" height="805" frameX="-10" frameY="-10" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10015" x="4012" y="837" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10016" x="4748" y="837" width="741" height="718" frameX="-30" frameY="-52" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10017" x="5539" y="837" width="778" height="775" frameX="-17" frameY="-21" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10018" x="6367" y="837" width="799" height="813" frameX="-6" frameY="-6" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10019" x="7216" y="837" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10020" x="0" y="1700" width="745" height="723" frameX="-30" frameY="-48" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10021" x="795" y="1700" width="786" height="783" frameX="-13" frameY="-17" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10022" x="1631" y="1700" width="807" height="821" frameX="-2" frameY="-2" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10023" x="2488" y="1700" width="686" height="628" frameX="-49" frameY="-139" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10024" x="3224" y="1700" width="884" height="731" frameX="-41" frameY="-44" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10025" x="4158" y="1700" width="915" height="789" frameX="-10" frameY="-14" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10026" x="5123" y="1700" width="931" height="825" frameX="0" frameY="0" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10027" x="6104" y="1700" width="736" height="716" frameX="-195" frameY="-52" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10028" x="6890" y="1700" width="740" height="722" frameX="-193" frameY="-46" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10029" x="0" y="2575" width="740" height="722" frameX="-193" frameY="-46" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10030" x="790" y="2575" width="739" height="727" frameX="-193" frameY="-41" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10031" x="1579" y="2575" width="739" height="727" frameX="-193" frameY="-41" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10032" x="2368" y="2575" width="733" height="732" frameX="-196" frameY="-36" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10033" x="2368" y="2575" width="733" height="732" frameX="-196" frameY="-36" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10034" x="3151" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10035" x="3151" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10036" x="3933" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10037" x="3933" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10038" x="3151" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+	<SubTexture name="Sasha_Idle instance 10039" x="3151" y="2575" width="732" height="734" frameX="-197" frameY="-35" frameWidth="933" frameHeight="825"/>
+</TextureAtlas>

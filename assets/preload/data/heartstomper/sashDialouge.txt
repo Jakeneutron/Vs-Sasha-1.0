@@ -1,0 +1,46 @@
+1:enter:bf:Bo, bee... bopee bo...
+2:sus:gf:... woOooOoOOoo...
+3:sus:bf:Babe, pardon my language, but...
+4::bf:where the heck is your dad?
+5:a joke:bf:He told us to meet here like an hour and a half ago.
+6:ugh:gf: Ugh... probably just playing up that "fashionably late" stuff.
+7::gf:then he does some dramatic entrance to make up for---
+8::event1:
+9:blegh:gf:Oh christ.
+10:annoy1:sash:yeeeeesh... this place is...
+11:rock up:sash:PERFECT~!
+12:neutral:gf: who the---
+13:a joke:bf: your dad turned into a girl.
+14::gf: boyfriend shut up
+15::gf: ...
+16:blegh:gf: wait a minute...
+17:shock:sash: oh my gosh!??!?
+18:cheer:gf:Sasha????
+19:tongue out:sash: Hey Girrrllfrriiieeeeeend!
+20:sus:bf: you... know this girl?
+21:cheer:gf:I used to babysit for extra money.
+22::bf:Babe, aren't you literally rich?
+23:enter:gf:what of it?
+24:pleading:sash:Oh heyyyy, sorryyyyy kid,
+25::sash: this venue is booked for me and my crew from between 1:30 - 4:00 pm. 
+26:enter:sash:Tssssss, so you kinda gotta go... sorryyyyyyy
+27:upset:bf: uhm?? First of all, I'm 19. second of all---
+28:annoy1:sash: yeah yeah yeah, I don't care pipsqueak. 
+29::sash: Everyone's gonna be here in like... 0 minutes. 
+30:snicker:sash:So you need to take yourself and those chunky little speakers off the stage.
+31:neutral:gf: boyfriend, let's just go, we can just-
+32:very angry:bf: yo hold up! I've been waiting for hours to song battle, I'm not just gonna-
+33:annoy1:sash: oh my gosh, IIIII DOOOOONNN'T CAAAARRREEEE.
+34:upset:bf: ...
+35:crying:gf: C'mon Sash, the little guy can't sleep right if he ain't got at least one song battle in for the day.
+36:miss:bf: lil—- little??
+37:annoy2:sash: uGh... fine! 
+38:annoy1:sash:I gotta practice a little bit before the others come anyways. 
+39::sash:I'll song battle you for a bit and then you all go. Sound killer?
+40:upset:bf: ...
+41:enter:gf: yeah we'll go
+42:what:bf: WH?!
+43:rock up:sash: Perfect, then everyone's happy! 
+44:yelling:bf: FINE!... Fine...
+45:forward determined:sash: I don't hold back kid, so try not to croak mid song, okay?
+46:lets go:bf: oh bring it!
